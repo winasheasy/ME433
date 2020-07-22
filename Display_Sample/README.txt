@@ -1,0 +1,1 @@
+The SSD1306 is a driver for OLED displays. This program is a sample program to display sample text, and update count as fast as possible. With high I2C bus speed this project was able to achieve 75 fps. (which 75 updates on the screen per second.)
